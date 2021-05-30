@@ -1,7 +1,6 @@
 <p><a target="_blank" rel="noopener noreferrer" href="https://octodex.github.com/images/Fintechtocat.png"><img align="right" src="https://octodex.github.com/images/Fintechtocat.png" height = '300'></a></p>
 
 <center><h1> Hi, I’m Anurag Sharma <h1/></center>
-<hr>
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
