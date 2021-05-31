@@ -12,7 +12,7 @@
 
 
 
-Stats is se aynge
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag-2000&show_icons=true&theme=dark)
 <!---
 Anurag-2000/Anurag-2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
