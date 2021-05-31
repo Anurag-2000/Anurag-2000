@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Deep Learning<br>
 - 💞️ I’m looking to collaborate on Projects Relation to ML/DL<br>
 - 📫 How to reach me <br>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Anurag-2000)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Anurag-2000)](https://github.com/Anurag-2000/github-readme-stats)
 
 <!---
 Anurag-2000/Anurag-2000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
